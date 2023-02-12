@@ -1,0 +1,1 @@
+This is the second section of my git demo prooject in my Full-Stack Web Development course in Udemy.
